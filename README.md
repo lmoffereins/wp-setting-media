@@ -50,4 +50,4 @@ You can contribute to the development of this drop-in by [opening a new issue](h
 
 ## Related ##
 
-See also the `WP_Post_Media` and `WP_Term_Media` drop-ins, to select media attachments for posts and terms respectively.
+See also the [`WP_Post_Media`](https://github.com/lmoffereins/wp-post-media/) and [`WP_Term_Media`](https://github.com/lmoffereins/wp-term-media/) drop-ins, to select media attachments for posts and terms respectively.
