@@ -21,7 +21,7 @@ class WP_Setting_Media {
 	/**
 	 * @var string Plugin version
 	 */
-	protected $version = '1.0.0';
+	protected $version = '1.0.1';
 
 	/**
 	 * @var string Metadata key
