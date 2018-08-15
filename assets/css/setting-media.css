@@ -40,6 +40,8 @@ tr:hover .wp-setting-media:not(.has-image) .wp-setting-media-remove,
 tr:hover .wp-setting-media:not(.has-image) .wp-setting-media-remove .screen-reader-text,
 .wp-setting-media:not(.has-image) .wp-setting-media-remove:focus .screen-reader-text {
 	position: static !important; /* Overrule .screen-reader-text's absolute !important */
+	clip-path: initial;
+	margin: auto;
 }
 
 .wp-setting-media.has-image .wp-setting-media-remove {
